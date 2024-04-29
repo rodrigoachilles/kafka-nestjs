@@ -1,4 +1,4 @@
-# kafka-ts-nestjs
+# kafka-nestjs
 
 ## Overview
 
